@@ -5,5 +5,6 @@
 
 int main(){
 int a = 100;
+int b = 700;
 cout<<&a;
 }
